@@ -30,9 +30,9 @@
 ## طريقة التشغيل
 
 الدخول الى مسار :
--`Config/bot.json`
+- `Config/bot.json`
 بعدها الدخول على ملف
--`bot.json`
+- `bot.json`
 
 ```json
 {
